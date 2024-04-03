@@ -94,3 +94,12 @@ Bellabeat can work on suggesting low calorie diets or recipes which user can ref
 
 ## Supporting charts for our analysis are as below:
 
+![alt text](viz1.PNG)
+
+![alt text](viz2.PNG)
+
+![alt text](viz3.PNG)
+
+## `**Powerpoint presentation, Rmarkdown are attached**`
+
+### **Thank you for your time, please do share your feedback**
